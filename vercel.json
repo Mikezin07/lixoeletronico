@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd lixoeltronico && npm install",
+  "buildCommand": "cd lixoeltronico && npm run build",
+  "outputDirectory": "lixoeltronico/dist"
+}
